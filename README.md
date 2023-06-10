@@ -1,30 +1,25 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Bhimsen</h1>
+<h3 align="center">Passionate Engineer+Developer</h3>
 
-## About Me
-I'm a passionate full-stack developer with expertise in HTML, CSS, JavaScript (Node.js, React.js), APIs, and MongoDB. I have hands-on experience building modern, responsive web applications and have recently dived into the exciting world of web3 development. I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chococooke&label=Profile%20views&color=0e75b6&style=flat" alt="chococooke" /> </p>
 
-## What I Do
-- Develop dynamic and interactive web applications using React.js for the front end and Node.js for the back end.
-- Utilize modern web development tools and frameworks to create seamless user experiences.
-- Work with APIs to integrate data and services into applications.
-- Design and implement databases using MongoDB to ensure efficient data management.
-- Currently focusing on web3 development and exploring blockchain technologies, decentralized applications (dApps), and smart contracts.
+<p align="left"> <a href="https://twitter.com/chococooke29" target="blank"><img src="https://img.shields.io/twitter/follow/chococooke29?logo=twitter&style=for-the-badge" alt="chococooke29" /></a> </p>
 
-## Learning Journey
-I'm currently expanding my skills in web3 development and blockchain technologies. Here's what I'm focusing on:
-- Solidity programming language for smart contracts.
-- Ethereum and other blockchain platforms.
-- Building decentralized applications (dApps) and interacting with blockchain networks.
-- Integrating blockchain functionality into existing applications.
+- 🌱 I’m currently learning **Blockchain, Ethereum and Solidity**
 
-## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/bhimsen-%E2%9A%A1-885a8123b/
-- Email: pro.bhimsen@gmail.com
-- twitter: https://twitter.com/chococooke29
+- 📫 How to reach me **pro.bhimsen@gmail.com**
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chococooke29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chococooke29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhimsen-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhimsen-m" height="30" width="40" /></a>
+</p>
 
-## Open for Opportunities
-I'm open to exciting opportunities in full-stack web development, particularly in web3 and blockchain-related projects. If you're looking for a motivated developer who loves building innovative solutions, feel free to get in touch.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-Looking forward to connecting with fellow developers and exploring new possibilities in the world of web3!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chococooke&show_icons=true&locale=en&layout=compact" alt="chococooke" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chococooke&show_icons=true&locale=en" alt="chococooke" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chococooke&" alt="chococooke" /></p>

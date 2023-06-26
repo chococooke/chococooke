@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chococooke&label=Profile%20views&color=0e75b6&style=flat" alt="chococooke" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chococooke29" target="blank"><img src="https://img.shields.io/twitter/follow/chococooke29?logo=twitter&style=for-the-badge" alt="chococooke29" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chococooke29" target="blank"><img src="https://img.shields.io/twitter/follow/chococooke29?logo=twitter&style=for-the-badge" alt="0xchococooke" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain, Ethereum and Solidity**
 
